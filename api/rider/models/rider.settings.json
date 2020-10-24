@@ -1,0 +1,74 @@
+{
+  "kind": "collectionType",
+  "collectionName": "riders",
+  "info": {
+    "name": "Rider",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Sex": {
+      "type": "string"
+    },
+    "DOB": {
+      "type": "date"
+    },
+    "Photo": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "DrivingLicenseScanned": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "DrivingLicenseExpDate": {
+      "type": "date"
+    },
+    "DrivingLicenseID": {
+      "type": "string"
+    },
+    "RiderStatus": {
+      "type": "enumeration",
+      "enum": [
+        "UnderApproval",
+        "NeedClarification",
+        "Approved",
+        "Suspended",
+        "Blacklisted"
+      ]
+    },
+    "RiderAddress": {
+      "type": "component",
+      "repeatable": true,
+      "component": "address.address"
+    },
+    "orders": {
+      "via": "rider",
+      "collection": "orders"
+    }
+  }
+}

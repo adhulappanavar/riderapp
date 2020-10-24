@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "restaurants",
+  "info": {
+    "name": "Restaurants",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "RHRestaurantID": {
+      "type": "integer"
+    },
+    "RestaurantName": {
+      "type": "string"
+    },
+    "RestaurantAddress": {
+      "type": "component",
+      "repeatable": true,
+      "component": "address.address"
+    },
+    "orders": {
+      "via": "restaurant",
+      "collection": "orders"
+    }
+  }
+}

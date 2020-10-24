@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_address_addresses",
+  "info": {
+    "name": "Address",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "BuildingNo": {
+      "type": "string"
+    },
+    "AddressLine1": {
+      "type": "string"
+    },
+    "AddressLine2": {
+      "type": "string"
+    },
+    "City": {
+      "type": "string"
+    },
+    "ZipCode": {
+      "type": "string"
+    }
+  }
+}

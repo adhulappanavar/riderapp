@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "orders",
+  "info": {
+    "name": "Orders",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "RHOrderID": {
+      "type": "integer"
+    },
+    "DeliveryAddress": {
+      "type": "component",
+      "repeatable": true,
+      "component": "address.address"
+    },
+    "rider": {
+      "model": "rider",
+      "via": "orders"
+    },
+    "restaurant": {
+      "model": "restaurants",
+      "via": "orders"
+    }
+  }
+}
