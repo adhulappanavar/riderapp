@@ -26,6 +26,18 @@
     "restaurant": {
       "model": "restaurants",
       "via": "orders"
+    },
+    "OrderStatus": {
+      "type": "enumeration",
+      "enum": [
+        "PlacedOrderAtRestaurant",
+        "OrderReadyForPickupAtRestaurant",
+        "OrderPickedUpFromRestaurant",
+        "OrderEnrouteForDelivery",
+        "OrderDeliveredToCustomer",
+        "OrderCouldNotBeDelivered",
+        "OrderRefusedByCustomer"
+      ]
     }
   }
 }
