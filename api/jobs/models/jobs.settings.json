@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jobs",
+  "info": {
+    "name": "Jobs"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "locationNames": {
+      "type": "string"
+    },
+    "isFeatured": {
+      "type": "boolean"
+    }
+  }
+}
