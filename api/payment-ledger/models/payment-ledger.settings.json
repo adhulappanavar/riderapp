@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "payment_ledgers",
+  "info": {
+    "name": "PaymentLedger"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "order": {
+      "model": "orders"
+    },
+    "rider": {
+      "model": "rider"
+    },
+    "DeliveryCostIncurred": {
+      "type": "decimal"
+    },
+    "DeliveryCostReceivedFromRobinhood": {
+      "type": "decimal"
+    },
+    "DeliveryCostPaidToRider": {
+      "type": "decimal"
+    },
+    "DateOfOperation": {
+      "type": "date"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/order-job-broadcast-managements",
+      "handler": "order-job-broadcast-management.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/order-job-broadcast-managements/count",
+      "handler": "order-job-broadcast-management.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/order-job-broadcast-managements/:id",
+      "handler": "order-job-broadcast-management.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/order-job-broadcast-managements",
+      "handler": "order-job-broadcast-management.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/order-job-broadcast-managements/:id",
+      "handler": "order-job-broadcast-management.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/order-job-broadcast-managements/:id",
+      "handler": "order-job-broadcast-management.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

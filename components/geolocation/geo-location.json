@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_geolocation_geo_locations",
+  "info": {
+    "name": "GeoLocation",
+    "icon": "arrows-alt"
+  },
+  "options": {},
+  "attributes": {
+    "Lat": {
+      "type": "string"
+    },
+    "Long": {
+      "type": "string"
+    },
+    "GeoLocationTimestamp": {
+      "type": "datetime"
+    }
+  }
+}

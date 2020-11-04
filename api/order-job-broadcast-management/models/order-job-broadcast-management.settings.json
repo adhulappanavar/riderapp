@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "order_job_broadcast_managements",
+  "info": {
+    "name": "OrderJobBroadcastManagement"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "order": {
+      "model": "orders"
+    },
+    "BroadcastTime": {
+      "type": "datetime"
+    },
+    "riders": {
+      "collection": "rider",
+      "via": "brodcastridermap"
+    },
+    "RiderAcceptanceStatus": {
+      "type": "enumeration",
+      "enum": [
+        "Broadcasted",
+        "NoResponseFromRider",
+        "RiderAcceptedTheOrder",
+        "RiderRejectedTheOrder"
+      ]
+    },
+    "RiderResponseTimeStatus": {
+      "type": "datetime"
+    },
+    "RiderGeoLocationAtBroadcastTime": {
+      "type": "component",
+      "repeatable": true,
+      "component": "geolocation.geo-location"
+    },
+    "RiderGeoLocationOnResponse": {
+      "type": "component",
+      "repeatable": true,
+      "component": "geolocation.geo-location"
+    }
+  }
+}

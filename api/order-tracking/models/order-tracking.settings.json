@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "order_trackings",
+  "info": {
+    "name": "OrderGeoTracking",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "OrderTrackingTimeStamp": {
+      "type": "datetime"
+    },
+    "GeoLatitude": {
+      "type": "string"
+    },
+    "GeoLongitude": {
+      "type": "string"
+    },
+    "order": {
+      "model": "orders",
+      "via": "order_trackings"
+    }
+  }
+}

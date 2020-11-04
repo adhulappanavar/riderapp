@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/payment-ledgers",
+      "handler": "payment-ledger.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/payment-ledgers/count",
+      "handler": "payment-ledger.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/payment-ledgers/:id",
+      "handler": "payment-ledger.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/payment-ledgers",
+      "handler": "payment-ledger.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/payment-ledgers/:id",
+      "handler": "payment-ledger.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/payment-ledgers/:id",
+      "handler": "payment-ledger.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -69,6 +69,10 @@
     "orders": {
       "via": "rider",
       "collection": "orders"
+    },
+    "brodcastridermap": {
+      "via": "riders",
+      "model": "order-job-broadcast-management"
     }
   }
 }

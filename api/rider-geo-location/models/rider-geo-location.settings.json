@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "rider_geo_locations",
+  "info": {
+    "name": "RiderGeoLocation"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "rider": {
+      "model": "rider"
+    },
+    "RiderGeoLocation": {
+      "type": "component",
+      "repeatable": true,
+      "component": "geolocation.geo-location"
+    }
+  }
+}

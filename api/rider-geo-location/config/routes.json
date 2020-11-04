@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/rider-geo-locations",
+      "handler": "rider-geo-location.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/rider-geo-locations/count",
+      "handler": "rider-geo-location.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/rider-geo-locations/:id",
+      "handler": "rider-geo-location.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/rider-geo-locations",
+      "handler": "rider-geo-location.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/rider-geo-locations/:id",
+      "handler": "rider-geo-location.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/rider-geo-locations/:id",
+      "handler": "rider-geo-location.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

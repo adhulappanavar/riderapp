@@ -38,6 +38,13 @@
         "OrderCouldNotBeDelivered",
         "OrderRefusedByCustomer"
       ]
+    },
+    "order_trackings": {
+      "via": "order",
+      "collection": "order-tracking"
+    },
+    "RiderDeliveryCost": {
+      "type": "decimal"
     }
   }
 }
