@@ -112,7 +112,8 @@ license.txt
 exports
 .cache
 build
-extensions
+backend/extensions
 .next
 frontend/.nextjs
+chunks
 

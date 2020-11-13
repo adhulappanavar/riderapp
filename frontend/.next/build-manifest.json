@@ -24,10 +24,15 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/ridersgqlserver": [
+    "/ridersgqlstatic": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/ridersgqlserver.js"
+      "static/chunks/pages/ridersgqlstatic.js"
+    ],
+    "/ridersservernogql": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/ridersservernogql.js"
     ]
   },
   "ampFirstPages": []

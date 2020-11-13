@@ -54,8 +54,14 @@ class Layout extends React.Component {
             </NavItem>
 
             <NavItem className="ml-auto">
-              <Link href="/ridersgqlserver">
-                <a className="nav-link">Rider Graphql ServersideProps</a>
+              <Link href="/ridersgqlstatic">
+                <a className="nav-link">Rider Graphql StaicProps</a>
+              </Link>
+            </NavItem>
+
+            <NavItem className="ml-auto">
+              <Link href="/ridersservernogql">
+                <a className="nav-link">Rider Non-Graphql ServersideProps</a>
               </Link>
             </NavItem>
 
