@@ -14,7 +14,6 @@ function MyApp({ Component, pageProps }) {
           <Layout isAuthenticated {...pageProps}>
           <Component {...pageProps} />
         </Layout>
-      <Component {...pageProps} />
     </ApolloProvider>
   );
 }
