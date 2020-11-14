@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/ridersservernogql": "pages/ridersservernogql.js",
-  "/ridersgqlstatic": "pages/ridersgqlstatic.js"
+  "/riders": "pages/riders.js",
+  "/ridersservernogql": "pages/ridersservernogql.js"
 }

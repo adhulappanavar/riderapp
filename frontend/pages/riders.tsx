@@ -4,7 +4,8 @@ import { initializeApollo } from "src/apollo";
 const MyQuery = gql`
   query MyQuery {
       riders{
-          name
+          Name
+          Title
       }
   }
 `;
@@ -15,11 +16,22 @@ export default function Riders() {
   if (loading) return <span>loading...</span>;
 
   console.log(data);
+  const { riders } = data
+
   return (
     <div>
-      <pre>{JSON.stringify(data, null, 2)}</pre>
+      {riders.map((rider, i) => (
+        <div key={i}>{rider.Name}/{rider.Title}</div>
+      ))}
     </div>
-  );
+  )
+
+
+  // return (
+  //   <div>
+  //     <pre>{JSON.stringify(data, null, 2)}</pre>
+  //   </div>
+  // );
 }
 
 export async function getStaticProps() {

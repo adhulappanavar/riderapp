@@ -1,5 +1,15 @@
 import { useQuery, gql } from "@apollo/client";
 import { initializeApollo } from "src/apollo";
+import {
+  Button,
+  Card,
+  CardBody,
+  CardColumns,
+  CardImg,
+  CardSubtitle
+} from "reactstrap";
+import { CardText, CardTitle, Col, Row } from "reactstrap";
+import Link from "next/link";
 
 const MyRiderQuery = gql`
 query qriders {
@@ -20,9 +30,12 @@ export default function Riders() {
 
   // console.log(data);
   return (
-    <div>
-      <pre>{JSON.stringify(data, null, 2)}</pre>
+    <div>   
+      <div>
+        <pre>{JSON.stringify(data, null, 2)}</pre>
+      </div>
     </div>
+
   );
 }
 

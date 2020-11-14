@@ -53,6 +53,19 @@ class Layout extends React.Component {
               </Link>
             </NavItem>
 
+
+            <NavItem className="ml-auto">
+              <Link href="/riders2">
+                <a className="nav-link">RiderCard</a>
+              </Link>
+            </NavItem>
+
+            <NavItem className="ml-auto">
+              <Link href="/riders">
+                <a className="nav-link">Rider Graphql</a>
+              </Link>
+            </NavItem>
+
             <NavItem className="ml-auto">
               <Link href="/ridersgqlstatic">
                 <a className="nav-link">Rider Graphql StaicProps</a>
