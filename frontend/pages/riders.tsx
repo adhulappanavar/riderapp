@@ -3,10 +3,14 @@ import { initializeApollo } from "src/apollo";
 
 const MyQuery = gql`
   query MyQuery {
-      riders{
-          Name
-          Title
-      }
+    riders
+      {
+        id
+        Name
+        Title
+        orders { id
+          OrderStatus}
+    }
   }
 `;
 
@@ -21,8 +25,9 @@ export default function Riders() {
   return (
     <div>
       {riders.map((rider, i) => (
-        <div key={i}>{rider.Name}/{rider.Title}</div>
-      ))}
+        <div key={i}>{rider.Name}/{rider.Title}/{rider.orders[0].OrderStatus}</div>
+        )
+    )}
     </div>
   )
 
