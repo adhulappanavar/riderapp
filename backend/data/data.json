@@ -1,0 +1,12 @@
+{
+  "Riders": [
+    {
+      "Name": "rider1",
+      "Title": "Mr"
+    },
+    {
+      "Name": "Rider2",
+      "slug": "Ms"
+    }
+  ]
+}
