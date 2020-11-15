@@ -1,5 +1,17 @@
 import { useQuery, gql } from "@apollo/client";
 import { initializeApollo } from "src/apollo";
+import {
+  Button,
+  Card,
+  CardBody,
+  CardColumns,
+  CardImg,
+  CardSubtitle
+} from "reactstrap";
+import { CardText, CardTitle, Col, Row } from "reactstrap";
+import Link from "next/link";
+
+
 
 const MyQuery = gql`
   query MyQuery {
@@ -25,9 +37,37 @@ export default function Riders() {
   return (
     <div>
       {riders.map((rider, i) => (
-        <div key={i}>{rider.Name}/{rider.Title}/{rider.orders[0].OrderStatus}</div>
+              <div>
+                <div key={i}>{rider.Name}/{rider.Title}</div>
+                  <Card
+                style={{ width: "30%", margin: "0 10px" }}
+                className="h-100"
+                key={rider.id}
+              >
+                <CardImg
+                  top={true}
+                  style={{ height: 250 }}
+                  src={`https://1.bp.blogspot.com/-7YsI4b0LKzI/W1rUibXlLTI/AAAAAAAAHSs/C1W444Ul4MIRVqelm8aGgMqUWG6grLvVwCLcBGAs/s1600/delivery-boy-2.gif}`}
+                />
+                <CardBody>
+                  <CardTitle>{rider.Name}</CardTitle>
+                  <CardText>{rider.Title}</CardText>
+                  <CardText>{rider.orders[0].OrderStatus}</CardText>
+
+                </CardBody>
+                <div className="card-footer">
+                  <Link
+                    as={`/riders/${rider.id}`}
+                    href={`/riders?id=${rider.id}`}
+                  >
+                    <a className="btn btn-primary">View</a>
+                  </Link>
+                </div>
+              </Card>
+              </div>
         )
-    )}
+      )
+    }
     </div>
   )
 
