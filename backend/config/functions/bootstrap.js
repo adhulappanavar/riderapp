@@ -16,9 +16,7 @@ const fs = require("fs");
 const path = require("path");
 const mime = require("mime-types");
 const {
-  Riders,
-  Orders,
-  global
+  Riders
 } = require("../../data/data.json");
 
 async function isFirstRun() {
@@ -28,7 +26,7 @@ async function isFirstRun() {
     name: "setup",
   });
   const initHasRun = await pluginStore.get({ key: "initHasRun" });
-  await pluginStore.set({ key: "initHasRun", value: true });
+  //await pluginStore.set({ key: "initHasRun", value: true });
   return !initHasRun;
 };
 
@@ -135,7 +133,7 @@ async function importRiders() {
     // const files = {
     //   image: getFileData(`${rider.slug}.jpg`),
     // };
-    return createEntry({ model: "Rider", entry: Rider, files });
+    return createEntry({ model: "rider", entry: Rider, files });
   }));
 }
 

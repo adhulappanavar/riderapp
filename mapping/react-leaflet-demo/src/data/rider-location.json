@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "RIDER_ID": "1",
+          "Name" : "Anil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            100.50189971923828,
+            13.75647628380903
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "RIDER_ID": "2",
+            "Name" : "Selva"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            100.51528930664062,
+            13.723126448894282
+          ]
+        }
+      }
+    ]
+  }

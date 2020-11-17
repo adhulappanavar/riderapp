@@ -28,11 +28,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/riders.js"
-    ],
-    "/ridersservernogql": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/ridersservernogql.js"
     ]
   },
   "ampFirstPages": []

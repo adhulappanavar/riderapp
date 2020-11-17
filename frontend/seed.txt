@@ -1,0 +1,218 @@
+cat 	/Users/anidhula/learn/strapi/strapi-examples/nuxt-strapi-deliveroo-clone-tutorial/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/users-permissions/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/users-permissions/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/upload/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/settings-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/settings-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/content-type-builder/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/content-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/users-permissions/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/users-permissions/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/upload/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/settings-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/settings-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/email/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/content-type-builder/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/content-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/plugins/content-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/gatsby-strapi-tutorial/cms/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/users-permissions/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/users-permissions/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/upload/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/settings-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/settings-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/email/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/content-type-builder/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/content-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/plugins/content-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/strapi-deliveroo/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/riderapp/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/ridderApi4RH/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/my-strapi-blog/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/vue-strapi-apollo-blog/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/react-strapi-apollo-blog/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/nuxt-strapi-apollo-blog/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/next-strapi-apollo-blog/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/next-react-hooks-strapi-food-delivery/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/users-permissions/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/users-permissions/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/upload/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/settings-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/settings-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/content-type-builder/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/content-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/import-content-plugin-tutorial/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-typescript-tutorial/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/users-permissions/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/users-permissions/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/upload/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/settings-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/settings-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/email/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/content-type-builder/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/content-manager/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/plugins/content-manager/admin/src/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-tutorial/cms/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/gatsby-strapi-static-blog/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-nuxt-strapi-tutorial/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/config/functions/bootstrap.js
+cat 	/Users/anidhula/learn/strapi/community-content/tutorials/code/angular-strapi-apollo-blog/backend/config/functions/bootstrap.js/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/riderapp/frontend/seed.out
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/next/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/my-strapi-blog/data/data.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/api/app/config/data.json
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/har-schema/lib/postData.json
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/har-schema/lib/postData.json
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/har-schema/lib/postData.json
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/admin/admin/src/containers/InstallPluginPage/fakeData.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/har-schema/lib/postData.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/strapi-plugin-content-type-builder/admin/src/containers/ModelPage/tests/initialData.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/purest/node_modules/har-validator/lib/schemas/postData.json
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/core-js-compat/data.json
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/har-schema/lib/postData.json
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/admin/admin/src/containers/InstallPluginPage/fakeData.json
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/ajv/lib/refs/data.json
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/next-apollo/node_modules/ajv/lib/refs/$data.json
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/next/dist/compiled/conf/index.js
+/Users/anidhula/learn/strapi/riderapp/frontend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/next-apollo/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/next-apollo/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/next-apollo/node_modules/ajv/lib/$data.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/next-apollo/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/next-apollo/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/strapi-examples/nextjs-react-strapi-deliveroo-clone-tutorial/frontend/node_modules/babel-preset-env/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/strapi-examples/jekyll-strapi-tutorial/api/plugins/users-permissions/admin/src/containers/HomePage/saga.js
+/Users/anidhula/learn/strapi/strapi-examples/cheesecakes/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/frontend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/@babel/polyfill/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/jsonfile/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/json-schema/draft-zyp-json-schema-03.xml
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/json-schema/draft-zyp-json-schema-04.xml
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/strapi-deliveroo/backend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/frontend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/jsonfile/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/json-schema/draft-zyp-json-schema-04.xml
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/json-schema/draft-zyp-json-schema-03.xml
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/esm/esm/loader.js
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/deliveroo-clone-next-strapi-tutorial/backend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/community-content/tutorials/code/jekyll-strapi-tutorial/api/plugins/users-permissions/admin/src/containers/HomePage/saga.js
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/jsonfile/README.md
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/json-schema/draft-zyp-json-schema-04.xml
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/json-schema/draft-zyp-json-schema-03.xml
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/my-strapi-blog/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/my-strapi-blog/config/functions/bootstrap.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/next/dist/compiled/conf/index.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/@babel/helper-compilation-targets/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/strapi-starter-next-blog/frontend/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/jsonfile/README.md
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/json-schema/draft-zyp-json-schema-04.xml
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/json-schema/draft-zyp-json-schema-03.xml
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/ridderApi4RH/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/next/dist/compiled/conf/index.js
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/riderappnextjs/nextjs-strapi-riderapp/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/next/dist/compiled/conf/index.js
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/movienextjsUI/Making-Websites-With-Next.js-And-Strapi/node_modules/caniuse-lite/README.md
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/ajv/lib/ajv.js
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/ajv/lib/keyword.js
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/ajv/lib/data.js
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/ajv/dist/ajv.bundle.js
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/ajv/dist/ajv.min.js
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/jsonfile/README.md
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/browserslist/README.md
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/json-schema/draft-zyp-json-schema-04.xml
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/json-schema/draft-zyp-json-schema-03.xml
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/core-js/README.md
+/Users/anidhula/learn/strapi/riderapp/backend/node_modules/caniuse-lite/README.md
